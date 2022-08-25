@@ -1,4 +1,4 @@
-package domain;
+package guru.springframework.sdjpaintro.domain;
 
 import jakarta.persistence.*;
 
